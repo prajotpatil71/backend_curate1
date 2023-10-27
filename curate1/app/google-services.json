@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080436154871",
+    "project_id": "curate-44642",
+    "storage_bucket": "curate-44642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080436154871:android:8e92b25041635a1caacef2",
+        "android_client_info": {
+          "package_name": "com.example.curate1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWiMTW3PGzW-4s_Ms7Ok84AAuUi5Raq-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
